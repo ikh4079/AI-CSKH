@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Chính sách đổi trả là gì?",
+    "answer": "Khách có thể yêu cầu đổi trả trong vòng 7 ngày nếu sản phẩm lỗi do nhà bán hoặc giao sai mẫu."
+  },
+  {
+    "question": "Bao lâu thì giao hàng?",
+    "answer": "Khu vực nội thành giao trong 1-2 ngày, ngoại thành từ 3-5 ngày tùy đơn vị vận chuyển."
+  },
+  {
+    "question": "Làm sao để tạo ticket hỗ trợ?",
+    "answer": "Khách chỉ cần mô tả sự cố và yêu cầu hỗ trợ thêm, agent sẽ tạo ticket và thông báo cho đội xử lý."
+  },
+  {
+    "question": "Tôi có thể hủy đơn hàng không?",
+    "answer": "Khách có thể hủy đơn trước khi đơn được xác nhận giao. Sau khi đơn đã bàn giao cho đơn vị vận chuyển, khách vui lòng liên hệ hỗ trợ để được xử lý."
+  },
+  {
+    "question": "Tôi thanh toán bằng hình thức nào?",
+    "answer": "Shop hỗ trợ thanh toán COD (tiền mặt khi nhận hàng), chuyển khoản ngân hàng, và ví điện tử như MoMo, ZaloPay."
+  },
+  {
+    "question": "Sản phẩm có bảo hành không?",
+    "answer": "Tùy từng sản phẩm sẽ có chính sách bảo hành khác nhau. Vui lòng xem thông tin bảo hành trong phần mô tả sản phẩm hoặc liên hệ shop để được tư vấn."
+  },
+  {
+    "question": "Tôi chưa nhận được hàng dù đã quá ngày dự kiến?",
+    "answer": "Khách vui lòng kiểm tra mã vận đơn và trạng thái giao hàng. Nếu đơn bị trễ quá 2 ngày so với dự kiến, hãy liên hệ hỗ trợ để shop kiểm tra lại với đơn vị vận chuyển."
+  },
+  {
+    "question": "Tôi có thể đổi địa chỉ giao hàng sau khi đặt không?",
+    "answer": "Khách có thể yêu cầu đổi địa chỉ giao hàng khi đơn chưa được giao cho đơn vị vận chuyển. Liên hệ hỗ trợ càng sớm càng tốt sau khi đặt hàng."
+  },
+  {
+    "question": "Làm sao để theo dõi đơn hàng?",
+    "answer": "Sau khi đơn được xác nhận, khách sẽ nhận được mã vận đơn qua tin nhắn. Dùng mã này để tra cứu trạng thái trên website của đơn vị vận chuyển tương ứng."
+  },
+  {
+    "question": "Sản phẩm tôi nhận bị hư hỏng, phải làm gì?",
+    "answer": "Khách vui lòng quay video unbox khi nhận hàng để làm bằng chứng. Nếu phát hiện hàng hư hỏng, liên hệ hỗ trợ ngay trong vòng 24 giờ kèm hình ảnh/video để được xử lý nhanh nhất."
+  },
+  {
+    "question": "Shop có hỗ trợ mua sỉ không?",
+    "answer": "Shop có chính sách giá sỉ cho đơn hàng số lượng lớn. Vui lòng liên hệ trực tiếp với đội kinh doanh để được báo giá và tư vấn cụ thể."
+  },
+  {
+    "question": "Tôi muốn khiếu nại về chất lượng dịch vụ?",
+    "answer": "Khách có thể gửi khiếu nại trực tiếp qua kênh hỗ trợ. Agent sẽ tiếp nhận và chuyển đến bộ phận chăm sóc khách hàng để xử lý trong vòng 24 giờ làm việc."
+  }
+]

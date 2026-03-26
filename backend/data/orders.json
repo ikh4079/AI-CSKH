@@ -1,0 +1,166 @@
+[
+  {
+    "order_id": "DH1001",
+    "customer": "Nguyen Van A",
+    "phone": "0901234567",
+    "address": "123 Lê Lợi, Quận 1, TP.HCM",
+    "status": "đang giao",
+    "items": [
+      {
+        "name": "Áo thun nam",
+        "quantity": 2,
+        "price": 150000
+      }
+    ],
+    "total": 300000,
+    "payment_method": "COD",
+    "payment_status": "chưa thanh toán",
+    "carrier": "GHN",
+    "tracking_code": "GHN123456789",
+    "note": "",
+    "created_at": "2026-03-25T09:00:00+07:00",
+    "eta": "2026-03-28"
+  },
+  {
+    "order_id": "DH1002",
+    "customer": "Tran Thi B",
+    "phone": "0912345678",
+    "address": "456 Nguyễn Huệ, Quận 1, TP.HCM",
+    "status": "chờ xác nhận",
+    "items": [
+      {
+        "name": "Váy hoa nhí",
+        "quantity": 1,
+        "price": 250000
+      }
+    ],
+    "total": 250000,
+    "payment_method": "MoMo",
+    "payment_status": "đã thanh toán",
+    "carrier": "GHTK",
+    "tracking_code": "",
+    "note": "Giao giờ hành chính",
+    "created_at": "2026-03-25T11:30:00+07:00",
+    "eta": "2026-03-29"
+  },
+  {
+    "order_id": "DH1003",
+    "customer": "Le Van C",
+    "phone": "0923456789",
+    "address": "789 Trần Hưng Đạo, Quận 5, TP.HCM",
+    "status": "đã giao",
+    "items": [
+      {
+        "name": "Quần jeans nam",
+        "quantity": 1,
+        "price": 350000
+      },
+      {
+        "name": "Thắt lưng da",
+        "quantity": 1,
+        "price": 120000
+      }
+    ],
+    "total": 470000,
+    "payment_method": "Chuyển khoản",
+    "payment_status": "đã thanh toán",
+    "carrier": "Viettel Post",
+    "tracking_code": "VTP987654321",
+    "note": "",
+    "created_at": "2026-03-23T08:15:00+07:00",
+    "eta": "2026-03-26"
+  },
+  {
+    "order_id": "DH1004",
+    "customer": "Pham Thi D",
+    "phone": "0934567890",
+    "address": "12 Hoàng Diệu, Quận 4, TP.HCM",
+    "status": "đã hủy",
+    "items": [
+      {
+        "name": "Áo khoác nữ",
+        "quantity": 1,
+        "price": 480000
+      }
+    ],
+    "total": 480000,
+    "payment_method": "ZaloPay",
+    "payment_status": "đã hoàn tiền",
+    "carrier": "",
+    "tracking_code": "",
+    "note": "Khách hủy vì đặt nhầm size",
+    "created_at": "2026-03-24T14:00:00+07:00",
+    "eta": ""
+  },
+  {
+    "order_id": "DH1005",
+    "customer": "Hoang Van E",
+    "phone": "0945678901",
+    "address": "34 Cách Mạng Tháng 8, Quận 3, TP.HCM",
+    "status": "chờ lấy hàng",
+    "items": [
+      {
+        "name": "Giày sneaker nam",
+        "quantity": 1,
+        "price": 750000
+      },
+      {
+        "name": "Tất thể thao",
+        "quantity": 3,
+        "price": 45000
+      }
+    ],
+    "total": 885000,
+    "payment_method": "COD",
+    "payment_status": "chưa thanh toán",
+    "carrier": "GHN",
+    "tracking_code": "GHN112233445",
+    "note": "Gọi trước khi giao",
+    "created_at": "2026-03-26T08:45:00+07:00",
+    "eta": "2026-03-30"
+  },
+  {
+    "order_id": "DH1006",
+    "customer": "Nguyen Thi F",
+    "phone": "0956789012",
+    "address": "56 Đinh Tiên Hoàng, Bình Thạnh, TP.HCM",
+    "status": "đang giao",
+    "items": [
+      {
+        "name": "Túi xách nữ",
+        "quantity": 1,
+        "price": 620000
+      }
+    ],
+    "total": 620000,
+    "payment_method": "MoMo",
+    "payment_status": "đã thanh toán",
+    "carrier": "GHTK",
+    "tracking_code": "GHTK556677889",
+    "note": "",
+    "created_at": "2026-03-25T16:20:00+07:00",
+    "eta": "2026-03-28"
+  },
+  {
+    "order_id": "DH1007",
+    "customer": "Do Van G",
+    "phone": "0967890123",
+    "address": "78 Phan Văn Trị, Gò Vấp, TP.HCM",
+    "status": "giao thất bại",
+    "items": [
+      {
+        "name": "Đồng hồ nam",
+        "quantity": 1,
+        "price": 1200000
+      }
+    ],
+    "total": 1200000,
+    "payment_method": "COD",
+    "payment_status": "chưa thanh toán",
+    "carrier": "Viettel Post",
+    "tracking_code": "VTP223344556",
+    "note": "Giao lần 1 không có người nhận",
+    "created_at": "2026-03-22T10:00:00+07:00",
+    "eta": "2026-03-27"
+  }
+]
