@@ -150,7 +150,7 @@ export function ChatWorkspace() {
                 }}
               />
               <div className="composer-footer">
-                <div className="composer-note">Trang demo, không phản ánh chất lượng thật</div>
+                <div className="composer-note">Trang demo, các chức năng sẽ không hoạt động</div>
                 <button className="submit-button" disabled={isLoading || input.trim().length === 0}>
                   {isLoading ? "Đang xử lý..." : "Gửi"}
                 </button>
